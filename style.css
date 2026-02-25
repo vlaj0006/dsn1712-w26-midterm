@@ -1,14 +1,13 @@
 body{
     margin: 0;
-    font-family: Montserrat, sans-serif; /** Embed fonts **/
+    font-family: 'Montserrat', sans-serif; 
     background-color: #0b0f1a;
     color: #f4f4f4;
     line-height: 1.6;
 }
 
 nav{
-    text-align: center; /** check if correct **/
-    margin-top: 40px;
+    text-align: center;
 }
 
 nav a{
@@ -18,7 +17,7 @@ nav a{
     margin-left: 20px;
     margin-right: 20px;
     text-decoration: none;
-    letter-spacing: 2px; /** check if correct **/
+    letter-spacing: 2px;
 }
 
 nav a:hover{
@@ -27,7 +26,7 @@ nav a:hover{
 }
 
 h1{
-    font-family: Cormorant Garamond; /** Embed fonts **/
+    font-family: 'Cormorant Garamond';
     font-size: 64px;
     color: #c6a85b;
     text-align: center;
@@ -37,7 +36,7 @@ h1{
 }
 
 h2{
-    font-family: Cormorant Garamond; /** Embed fonts **/
+    font-family: 'Cormorant Garamond';
     font-size: 36px;
     color: #c6a85b;
     margin-top: 100px;
@@ -46,7 +45,7 @@ h2{
 }
 
 h3{
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     color: #9aa0a6;
     text-transform: uppercase;
@@ -93,7 +92,7 @@ li{
     width: 100%;
 }
 
-section{
+.sections{
     padding-left: 60px;
     padding-right: 60px;
 }
